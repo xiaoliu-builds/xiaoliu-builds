@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=150&section=header&text=XIAO%20LIU&fontSize=48&fontColor=E2E8F0&desc=AI%20AGENT%20%7C%20OPEN%20SOURCE%20%7C%20AUTOMATION&descAlignY=68&descSize=13" width="100%" alt="Xiao Liu" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:2563EB&height=190&section=header&text=Xiao%20Liu&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20AGENT%20%7C%20OPEN%20SOURCE%20%7C%20AUTOMATION&descAlignY=60&descSize=15" width="100%" alt="Xiao Liu" />
 </p>
+
 
 <h1 align="center">程序员晓刘 | Xiao Liu</h1>
 
